@@ -315,7 +315,6 @@ $card_list = [
         <div class="popular__posts">
 
 
-
 <?php foreach ($card_list as $card): ?>
             <article class="popular__post post <?=$card['type']; ?> ">
                 <header class="post__header">

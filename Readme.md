@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Енот Енотик](https://up.htmlacademy.ru/php/12/user/578697).
-* Наставник: [Евгений Самойленко](https://htmlacademy.ru/profile/id999539).
+* Наставник: [Сергей Попов](https://htmlacademy.ru/profile/id1181399).
 
 ---
 
